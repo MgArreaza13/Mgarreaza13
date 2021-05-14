@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@mgarreaza13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mgarreaza13)](https://twitter.com/mgarreaza13) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgarreaza13/)](https://www.linkedin.com/in/mgarreaza13/)
+[![Twitter Badge](https://img.shields.io/badge/-@mgarreaza13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mgarreaza13)](https://twitter.com/mgarreaza13) [![Linkedin Badge](https://img.shields.io/badge/-mgarreaza13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgarreaza13/)](https://www.linkedin.com/in/mgarreaza13/)
 [![Gmail Badge](https://img.shields.io/badge/-mg.arreaza.13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mg.arreaza.13@gmail.com)](mailto:mg.arreaza.13@gmail.com)
 
 I am Miguel Arreaza 😃. I'm from Venezuela, I'm a Full Stack developer and musician 🏫. I love listening to good music, watching series, watching movies and learning new things.
